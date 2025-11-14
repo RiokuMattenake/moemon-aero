@@ -53,7 +53,7 @@ static const u8 sText_TransmittingPleaseWait[] = _("Transmitting. Please wait.\n
                                                    "{COLOR RED}{SHADOW LIGHT_RED}Please do not turn off the power or\n"
                                                    "unplug the Game Boy Advance Game\nLink Cable.");
 static const u8 sText_PleaseFollowInstructionsOnScreen[] = _("Please follow the instructions on your\n"
-                                                             "POKéMON Ruby/Sapphire screen.");
+                                                             "Moémon Ruby/Sapphire screen.");
 static const u8 sText_TransmissionFailureTryAgain[] = _("Transmission failure.\n"
                                                         "{COLOR RED}{SHADOW LIGHT_RED}Please try again.");
 
